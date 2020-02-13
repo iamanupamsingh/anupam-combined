@@ -4,8 +4,8 @@
 	background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(p1.jpg);
 	background-color: #c7ecee;
 	background-position: center;
-	height: 100vh;
-	min-height: 800px;
+	height: auto;
+	
 
 	background-size: cover;
 	color: #fff !important;
